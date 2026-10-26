@@ -49,6 +49,8 @@ BADGES=(
 )
 
 # Display label per ARG (falls back to a humanized ARG name).
+# NOTE: shields.io static-badge labels must not contain hyphens
+# ("code-server" renders a fake 200 "404: badge not found" SVG) — use spaces.
 label() {
     case "$1" in
         HERMES_VERSION)      echo "Hermes Agent" ;;
@@ -58,7 +60,7 @@ label() {
         OLLAMA_VERSION)      echo "Ollama" ;;
         MNEMON_VERSION)      echo "Mnemon" ;;
         NODE_VERSION)        echo "Node.js" ;;
-        CODE_SERVER_VERSION) echo "code-server" ;;
+        CODE_SERVER_VERSION) echo "Code Server" ;;
         HERDR_VERSION)       echo "herdr" ;;
         *) echo "${1%_VERSION}" ;;
     esac

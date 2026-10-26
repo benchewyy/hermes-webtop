@@ -8,6 +8,11 @@ _Run Hermes-Agent inside a browser-based VSCode + Linux desktop with free LLM su
 </p>
 
 <p align="center">
+  <strong>She will grow with you ...</strong>
+</p>
+
+
+<p align="center">
 <!-- versions-begin: managed by scripts/sync-badges.sh — do not edit between markers -->
   <a href="https://github.com/NousResearch/hermes-agent">
     <img src="https://img.shields.io/badge/Hermes%20Agent-2026.9.24-purple?logo=github" alt="Hermes Agent version">
@@ -31,17 +36,12 @@ _Run Hermes-Agent inside a browser-based VSCode + Linux desktop with free LLM su
     <img src="https://img.shields.io/badge/Node.js-26.12.1-brightgreen?logo=node.js" alt="Node.js version">
   </a>
   <a href="https://github.com/coder/code-server">
-    <img src="https://img.shields.io/badge/code-server-4.143.1-blue?logo=code" alt="code-server version">
+    <img src="https://img.shields.io/badge/Code%20Server-4.143.1-blue?logo=code" alt="Code Server version">
   </a>
   <a href="https://github.com/herdrdev/herdr">
     <img src="https://img.shields.io/badge/herdr-0.9.5-red?logo=terminal" alt="herdr version">
   </a>
 <!-- versions-end -->
-</p>
-
-
-<p align="center">
-  <strong>She will grow with you ...</strong>
 </p>
 
 <p align="center">
