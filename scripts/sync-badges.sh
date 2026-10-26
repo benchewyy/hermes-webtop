@@ -79,8 +79,8 @@ current="$(
                 exit 1
             fi
             d="$(label "$vname")"
-            printf '[![%s](https://img.shields.io/badge/%s-%s-%s?logo=%s)](%s)\n' \
-                "$d" "$(enc "$d")" "$v" "$color" "$logo" "$link"
+            printf '  <a href="%s">\n    <img src="https://img.shields.io/badge/%s-%s-%s?logo=%s" alt="%s version">\n  </a>\n' \
+                "$link" "$(enc "$d")" "$v" "$color" "$logo" "$d"
         done
         printf '%s' "$END_MARK"
     }

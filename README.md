@@ -9,15 +9,33 @@ _Run Hermes-Agent inside a browser-based VSCode + Linux desktop with free LLM su
 
 <p align="center">
 <!-- versions-begin: managed by scripts/sync-badges.sh — do not edit between markers -->
-[![Hermes Agent](https://img.shields.io/badge/Hermes%20Agent-2026.9.24-purple?logo=github)](https://github.com/NousResearch/hermes-agent)
-[![PI Agent](https://img.shields.io/badge/PI%20Agent-1.4.0-brown?logo=github)](https://pi.dev)
-[![OmniRoute](https://img.shields.io/badge/OmniRoute-3.8.52-orange?logo=npm)](https://www.npmjs.com/package/omniroute)
-[![9Router](https://img.shields.io/badge/9Router-0.5.111-green?logo=npm)](https://www.npmjs.com/package/9router)
-[![Ollama](https://img.shields.io/badge/Ollama-0.40.11-yellow?logo=ollama)](https://github.com/ollama/ollama)
-[![Mnemon](https://img.shields.io/badge/Mnemon-0.2.12-pink?logo=github)](https://github.com/mnemon-dev/mnemon)
-[![Node.js](https://img.shields.io/badge/Node.js-26.12.1-brightgreen?logo=node.js)](https://nodejs.org)
-[![code-server](https://img.shields.io/badge/code-server-4.143.1-blue?logo=code)](https://github.com/coder/code-server)
-[![herdr](https://img.shields.io/badge/herdr-0.9.5-red?logo=terminal)](https://github.com/herdrdev/herdr)
+  <a href="https://github.com/NousResearch/hermes-agent">
+    <img src="https://img.shields.io/badge/Hermes%20Agent-2026.9.24-purple?logo=github" alt="Hermes Agent version">
+  </a>
+  <a href="https://pi.dev">
+    <img src="https://img.shields.io/badge/PI%20Agent-1.4.0-brown?logo=github" alt="PI Agent version">
+  </a>
+  <a href="https://www.npmjs.com/package/omniroute">
+    <img src="https://img.shields.io/badge/OmniRoute-3.8.52-orange?logo=npm" alt="OmniRoute version">
+  </a>
+  <a href="https://www.npmjs.com/package/9router">
+    <img src="https://img.shields.io/badge/9Router-0.5.111-green?logo=npm" alt="9Router version">
+  </a>
+  <a href="https://github.com/ollama/ollama">
+    <img src="https://img.shields.io/badge/Ollama-0.40.11-yellow?logo=ollama" alt="Ollama version">
+  </a>
+  <a href="https://github.com/mnemon-dev/mnemon">
+    <img src="https://img.shields.io/badge/Mnemon-0.2.12-pink?logo=github" alt="Mnemon version">
+  </a>
+  <a href="https://nodejs.org">
+    <img src="https://img.shields.io/badge/Node.js-26.12.1-brightgreen?logo=node.js" alt="Node.js version">
+  </a>
+  <a href="https://github.com/coder/code-server">
+    <img src="https://img.shields.io/badge/code-server-4.143.1-blue?logo=code" alt="code-server version">
+  </a>
+  <a href="https://github.com/herdrdev/herdr">
+    <img src="https://img.shields.io/badge/herdr-0.9.5-red?logo=terminal" alt="herdr version">
+  </a>
 <!-- versions-end -->
 </p>
 
